@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "menu-cart": "/components/common/menu/cart",
+    "menu-profile": "/components/common/menu/profile",
+    "menu-share": "/components/common/menu/share",
+    "menu-live": "/components/common/menu/live"
+  }
+}

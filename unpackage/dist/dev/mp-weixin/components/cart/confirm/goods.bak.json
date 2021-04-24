@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "pay-popup": "/components/cart/confirm/payPopup",
+    "product-goods": "/components/cart/confirm/productGoods",
+    "package-goods": "/components/cart/confirm/packageGoods",
+    "coupon-popup": "/components/cart/confirm/couponPopup",
+    "stepper": "/components/common/stepper/index"
+  }
+}

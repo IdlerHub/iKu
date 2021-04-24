@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "btn": "/components/common/button/button",
+    "reason-popup": "/components/order/apply/reasonPopup"
+  }
+}

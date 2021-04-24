@@ -1,0 +1,182 @@
+{
+	"pages": [{
+			"path": "pages/index/main",
+		},
+		{
+			"path": "pages/article/main"
+		},
+		{
+			"path": "pages/mall/index/main"
+		},
+		{
+			"path": "pages/diagnosis/index/main"
+		},
+		{
+			"path": "pages/classroom/index/main"
+		},
+		{
+			"path": "pages/my/index/main"
+		},
+		{
+			"path": "pages/my/devices/main"
+		},
+		{
+			"path": "pages/my/address/index/main"
+		},
+		{
+			"path": "pages/my/address/add/main"
+		},
+		{
+			"path": "pages/my/address/edit/main"
+		},
+		{
+			"path": "pages/my/return/main"
+		},
+		{
+			"path": "pages/search/main"
+		},
+		{
+			"path": "pages/authorize/userInfo/main"
+		},
+		{
+			"path": "pages/authorize/phone/main"
+		},
+		{
+			"path": "pages/mall/detail/main"
+		},
+		{
+			"path": "pages/mall/certification/main"
+		},
+		{
+			"path": "pages/classroom/consult/main"
+		},
+		{
+			"path": "pages/classroom/class/main"
+		},
+		{
+			"path": "pages/my/family/main"
+		},
+		{
+			"path": "pages/my/family/history/main"
+		},
+		{
+			"path": "pages/my/family/profile/main"
+		},
+		{
+			"path": "pages/my/family/archives/main"
+		},
+		{
+			"path": "pages/my/family/archives-more/main"
+		},
+		{
+			"path": "pages/my/family/contact/main"
+		},
+		{
+			"path": "pages/my/InvitationRecord/main"
+		},
+		{
+			"path": "pages/my/MedalRecord/main"
+		},
+		{
+			"path": "pages/cart/index/main"
+		},
+		{
+			"path": "pages/cart/confirm/main"
+		},
+		{
+			"path": "pages/cart/productConfirm/main"
+		},
+		{
+			"path": "pages/cart/packageConfirm/main"
+		},
+		{
+			"path": "pages/cart/invoice/main"
+		},
+		{
+			"path": "pages/cart/address/main"
+		},
+		{
+			"path": "pages/order/list/main"
+		},
+		{
+			"path": "pages/order/detail/main"
+		},
+		{
+			"path": "pages/order/apply/main"
+		},
+		{
+			"path": "pages/order/ship/main"
+		},
+		{
+			"path": "pages/coupon/receive/main"
+		},
+		{
+			"path": "pages/coupon/my/main"
+		},
+		{
+			"path": "pages/team/main"
+		},
+		{
+			"path": "pages/education/main"
+		},
+		{
+			"path": "pages/video/main"
+		}
+	],
+	"subpackages": [{
+		"root": "pages/live",
+		"pages": [{
+			"path": "main"
+		}]
+	}],
+	"plugins": {
+		"live-player-plugin": {
+			"version": "1.2.0",
+			"provider": "wx2b03c6e691cd7370"
+		}
+	},
+	"window": {
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#fff",
+		"navigationBarTitleText": "WeChat",
+		"navigationBarTextStyle": "black",
+		"enablePullDownRefresh": true
+	},
+	"tabBar": {
+		"color": "#333",
+		"backgroundColor": "#fff",
+		"selectedColor": "#333",
+		"borderStyle": "black",
+		"list": [{
+				"text": "首页",
+				"pagePath": "pages/index/main",
+				"iconPath": "static/images/tabbar/index.png",
+				"selectedIconPath": "static/images/tabbar/index_fill.png"
+			},
+			{
+				"text": "酷宝",
+				"pagePath": "pages/mall/index/main",
+				"iconPath": "static/images/tabbar/mall.png",
+				"selectedIconPath": "static/images/tabbar/mall_fill.png"
+			},
+			{
+				"text": "档案 ｜ 视频",
+				"pagePath": "pages/my/family/archives/main",
+				"iconPath": "static/images/tabbar/archives.png",
+				"selectedIconPath": "static/images/tabbar/archives_fill.png"
+			},
+			{
+				"text": "购物车",
+				"pagePath": "pages/cart/index/main",
+				"iconPath": "static/images/tabbar/cart.png",
+				"selectedIconPath": "static/images/tabbar/cart_fill.png"
+			},
+			{
+				"text": "我的",
+				"pagePath": "pages/my/index/main",
+				"iconPath": "static/images/tabbar/my.png",
+				"selectedIconPath": "static/images/tabbar/my_fill.png"
+			}
+		]
+	}
+}

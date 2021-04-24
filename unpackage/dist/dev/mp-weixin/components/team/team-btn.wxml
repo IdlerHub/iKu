@@ -1,0 +1,1 @@
+<button class="{{['team-btn flex-cc data-v-242e539a',(size==='lg')?'lg':'',(size==='sm')?'sm':'',(type==='red')?'color-red':'',(type==='yellow')?'color-yellow':'']}}" open-type="{{openType}}" data-event-opts="{{[['tap',[['$emit',['clickBtn']]]]]}}" bindtap="__e">{{title}}</button>

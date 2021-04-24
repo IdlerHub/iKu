@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "tab": "/components/common/tab/tab",
+    "classes": "/components/my/family/classes",
+    "buy-button": "/components/common/button/button",
+    "menu-group": "/components/common/menu/share",
+    "guige-popup": "/components/mall/goodsDetail/guigePopup",
+    "stepper": "/components/common/stepper/square-car"
+  }
+}

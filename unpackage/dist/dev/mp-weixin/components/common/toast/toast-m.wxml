@@ -1,0 +1,1 @@
+<block wx:if="{{show}}"><view class="toast flex-ccc _div data-v-ab703914"><view class="icon-box _div data-v-ab703914"><view class="iconfont icon-roundcheckfill _i data-v-ab703914"></view></view><label class="_span data-v-ab703914">{{title}}</label></view></block>

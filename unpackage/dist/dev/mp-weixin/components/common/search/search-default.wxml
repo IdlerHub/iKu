@@ -1,0 +1,1 @@
+<view class="search-container _div"><view data-event-opts="{{[['tap',[['$emit',['clickSearch']]]]]}}" class="search-box flex-cc _div" bindtap="__e"><view class="iconfont icon-search _i"></view><label class="_span">{{placeholder}}</label></view></view>

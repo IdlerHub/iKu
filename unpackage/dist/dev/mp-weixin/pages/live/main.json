@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "banner": "/components/common/banner/banner",
+    "search-bar": "/components/common/search/search-input",
+    "item": "/pages/live/components/item",
+    "no-list": "/components/common/no-data/no-search"
+  }
+}

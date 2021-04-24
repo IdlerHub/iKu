@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "btn": "/components/common/button/button",
+    "product-item": "/components/cart/index/productItem",
+    "package-item": "/components/cart/index/packageItem",
+    "no-data": "/components/common/no-data/no-search"
+  }
+}

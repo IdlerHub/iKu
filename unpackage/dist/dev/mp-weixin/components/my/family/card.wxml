@@ -1,0 +1,1 @@
+<view class="family-card _div data-v-75c3e8f3"><image class="bg _img data-v-75c3e8f3" src="/static/images/common/bg.png"></image><view class="content _div data-v-75c3e8f3"><view class="_div data-v-75c3e8f3"><view class="name _p data-v-75c3e8f3">{{info.consumer_name}}</view></view><image class="avatar _img data-v-75c3e8f3" src="{{info.userpic}}"></image></view></view>

@@ -1,0 +1,15 @@
+{
+  "usingComponents": {
+    "u-parse": "/components/u-parse/u-parse",
+    "swiper": "/components/common/swiper/swiper-video",
+    "tab": "/components/common/tab/tab",
+    "recommend-goods-item": "/components/mall/goodsDetail/recommendGoodsItem",
+    "recommend-lesson-item": "/components/mall/goodsDetail/recommendLessonItem",
+    "arguments-modal": "/components/mall/goodsDetail/argumentsModal",
+    "guige-popup": "/components/mall/goodsDetail/guigePopup",
+    "package-guige-popup": "/components/mall/goodsDetail/packageGuigePopup",
+    "menu-share": "/components/common/menu/share",
+    "menu-profile": "/components/common/menu/profile",
+    "btn": "/components/common/button/button"
+  }
+}

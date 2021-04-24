@@ -1,0 +1,1 @@
+<block wx:if="{{liveshow}}"><button data-event-opts="{{[['tap',[['$nav',['live']]]]]}}" class="menu-btn menu-share data-v-d2824c9a" catchtap="__e"><label class="_span data-v-d2824c9a">直播</label></button></block>

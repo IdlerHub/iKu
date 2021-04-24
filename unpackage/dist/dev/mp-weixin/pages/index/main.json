@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "swiper": "/components/common/swiper/index",
+    "search": "/components/common/search/search-default",
+    "heading": "/components/index/heading",
+    "menu-group": "/components/common/menu/menuGroup",
+    "official-account": "/components/common/official-account/official-account",
+    "coupon-poper": "/components/coupon/newCouponPoper"
+  }
+}

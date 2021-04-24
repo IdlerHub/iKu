@@ -1,0 +1,15 @@
+{
+  "usingComponents": {
+    "video-panel": "/components/common/video/fixVideo",
+    "tab": "/components/common/tab/tab",
+    "products": "/components/classroom/scrollProducts",
+    "classes": "/components/classroom/classes",
+    "question": "/components/classroom/question",
+    "ask-button": "/components/classroom/ask-button",
+    "comment": "/components/classroom/comment",
+    "cart": "/components/common/menu/cart",
+    "weixin-parse": "/components/common/wxParse/wxParse",
+    "profile": "/components/common/menu/profile",
+    "answer-popup": "/components/education/answer-popup"
+  }
+}

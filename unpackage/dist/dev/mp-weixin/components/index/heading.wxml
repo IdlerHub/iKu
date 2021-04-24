@@ -1,0 +1,1 @@
+<view class="heading flex-bc _div"><view class="flex-c flex-1 _div"><view class="border _div"></view><label class="title _span">{{title}}</label></view><view data-event-opts="{{[['tap',[['$emit',['clickMore']]]]]}}" class="flex-c _div" bindtap="__e"><label class="more _span">查看更多</label><view class="iconfont icon-right _i"></view></view></view>

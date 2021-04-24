@@ -1,0 +1,1 @@
+<button data-event-opts="{{[['tap',[['$nav',['cart']]]]]}}" class="menu-btn menu-cart data-v-42a269e7" style="{{(customstyle)}}" bindtap="__e"><view class="iconfont icon-cartfill _i data-v-42a269e7"></view></button>

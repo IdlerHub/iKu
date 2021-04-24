@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "team-btn": "/components/team/team-btn"
+  }
+}

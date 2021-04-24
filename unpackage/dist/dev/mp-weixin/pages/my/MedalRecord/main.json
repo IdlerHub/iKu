@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "tab": "/components/common/tab/tab",
+    "page-end": "/components/end/index",
+    "item": "/pages/my/MedalRecord/components/item"
+  }
+}

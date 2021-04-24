@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "profile": "/components/my/family/card",
+    "introduce-button": "/components/common/button/button",
+    "contact-button": "/components/common/button/button",
+    "change-button": "/components/common/button/button",
+    "products": "/components/my/family/products",
+    "classes": "/components/classroom/scrollClass",
+    "share": "/components/common/menu/share",
+    "buy": "/components/common/menu/buy"
+  }
+}

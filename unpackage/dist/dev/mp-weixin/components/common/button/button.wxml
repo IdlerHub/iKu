@@ -1,0 +1,1 @@
+<button data-event-opts="{{[['tap',[['clickBtn',['$event']]]]]}}" class="{{['data-v-14ccd474',typeClass,sizeClass,borderClass]}}" catchtap="__e">{{name}}</button>

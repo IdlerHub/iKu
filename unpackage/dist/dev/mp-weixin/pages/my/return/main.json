@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "btn": "/components/common/button/button",
+    "tab": "/components/common/tab/tab",
+    "product-goods": "/components/my/return/productGoods",
+    "package-goods": "/components/my/return/packageGoods",
+    "no-data": "/components/common/no-data/no-search"
+  }
+}

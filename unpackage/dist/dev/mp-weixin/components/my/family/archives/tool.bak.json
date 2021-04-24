@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "none-btn": "/components/my/family/archives/noneBtn",
+    "learn-item": "/components/my/family/archives/learn-item"
+  }
+}

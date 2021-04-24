@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "card": "/components/my/index/card",
+    "features": "/components/my/index/features",
+    "orders": "/components/my/index/orders",
+    "nav-list": "/components/my/index/list",
+    "menu-group": "/components/common/menu/menuGroup",
+    "official-account": "/components/common/official-account/official-account"
+  }
+}

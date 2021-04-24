@@ -1,0 +1,1 @@
+<view class="bottom-end data-v-c269661a" style="{{(customStyle)}}"><image hidden="{{!(show===false)}}" class="nothing data-v-c269661a" src="/static/images/common/no_data.png" mode="widthFix"></image><view hidden="{{!(show===false)}}" class="desc data-v-c269661a">{{text}}</view></view>

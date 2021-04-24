@@ -1,0 +1,1 @@
+<image class="banner _img" lazy-load="{{true}}" mode="aspectFill" src="{{banner.img+imgProcess.w375}}" data-event-opts="{{[['tap',[['clickBanner',['$event']]]]]}}" bindtap="__e"></image>

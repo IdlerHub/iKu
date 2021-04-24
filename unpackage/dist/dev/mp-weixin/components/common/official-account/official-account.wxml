@@ -1,0 +1,1 @@
+<block wx:if="{{official_show}}"><official-account data-event-opts="{{[['load',[['officialLoad',['$event']]]],['error',[['officialError',['$event']]]]]}}" bindload="__e" binderror="__e"></official-account></block>

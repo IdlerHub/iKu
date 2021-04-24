@@ -1,0 +1,92 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/article/main",
+    "pages/mall/index/main",
+    "pages/diagnosis/index/main",
+    "pages/classroom/index/main",
+    "pages/my/index/main",
+    "pages/my/devices/main",
+    "pages/my/address/index/main",
+    "pages/my/address/add/main",
+    "pages/my/address/edit/main",
+    "pages/my/return/main",
+    "pages/search/main",
+    "pages/authorize/userInfo/main",
+    "pages/authorize/phone/main",
+    "pages/mall/detail/main",
+    "pages/mall/certification/main",
+    "pages/classroom/consult/main",
+    "pages/classroom/class/main",
+    "pages/my/family/main",
+    "pages/my/family/history/main",
+    "pages/my/family/profile/main",
+    "pages/my/family/archives/main",
+    "pages/my/family/archives-more/main",
+    "pages/my/family/contact/main",
+    "pages/my/InvitationRecord/main",
+    "pages/my/MedalRecord/main",
+    "pages/cart/index/main",
+    "pages/cart/confirm/main",
+    "pages/cart/productConfirm/main",
+    "pages/cart/packageConfirm/main",
+    "pages/cart/invoice/main",
+    "pages/cart/address/main",
+    "pages/order/list/main",
+    "pages/order/detail/main",
+    "pages/order/apply/main",
+    "pages/order/ship/main",
+    "pages/coupon/receive/main",
+    "pages/coupon/my/main",
+    "pages/team/main",
+    "pages/education/main",
+    "pages/video/main"
+  ],
+  "subPackages": [
+    {
+      "root": "pages/live",
+      "pages": [
+        "main"
+      ]
+    }
+  ],
+  "tabBar": {
+    "color": "#333",
+    "backgroundColor": "#fff",
+    "selectedColor": "#333",
+    "borderStyle": "black",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/main",
+        "iconPath": "static/images/tabbar/index.png",
+        "selectedIconPath": "static/images/tabbar/index_fill.png"
+      },
+      {
+        "text": "酷宝",
+        "pagePath": "pages/mall/index/main",
+        "iconPath": "static/images/tabbar/mall.png",
+        "selectedIconPath": "static/images/tabbar/mall_fill.png"
+      },
+      {
+        "text": "档案 ｜ 视频",
+        "pagePath": "pages/my/family/archives/main",
+        "iconPath": "static/images/tabbar/archives.png",
+        "selectedIconPath": "static/images/tabbar/archives_fill.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/cart/index/main",
+        "iconPath": "static/images/tabbar/cart.png",
+        "selectedIconPath": "static/images/tabbar/cart_fill.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/my/index/main",
+        "iconPath": "static/images/tabbar/my.png",
+        "selectedIconPath": "static/images/tabbar/my_fill.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "no-list": "/components/common/no-data/no-list",
+    "course": "/components/common/card/course"
+  }
+}

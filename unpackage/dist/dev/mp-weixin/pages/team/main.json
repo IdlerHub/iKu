@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "step-flow": "/components/team/stepFlow",
+    "product-info": "/components/team/product-info",
+    "team-people": "/components/team/team-people",
+    "team-history": "/components/team/team-history"
+  }
+}

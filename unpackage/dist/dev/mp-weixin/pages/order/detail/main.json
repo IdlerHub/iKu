@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "btn": "/components/common/button/button",
+    "product-goods": "/components/order/list/productGoods",
+    "package-goods": "/components/order/list/packageGoods"
+  }
+}

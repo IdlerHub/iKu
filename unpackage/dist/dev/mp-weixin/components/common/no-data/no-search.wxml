@@ -1,0 +1,1 @@
+<view class="no-search flex-cbc _div data-v-668ac832" style="{{(customStyle)}}"><image style="{{'width:'+(size.w)+';'+('height:'+(size.h)+';')}}" src="{{pic}}" class="_img data-v-668ac832"></image><view class="tip _div data-v-668ac832">{{tip}}</view></view>

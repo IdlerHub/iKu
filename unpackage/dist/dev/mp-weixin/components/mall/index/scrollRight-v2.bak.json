@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "stepper": "/components/common/stepper/round",
+    "no-list": "/components/common/no-data/no-list"
+  }
+}

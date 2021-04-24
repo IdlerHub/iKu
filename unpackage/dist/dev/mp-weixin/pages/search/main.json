@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "search": "/components/common/search/search-input",
+    "tab": "/components/common/tab/tab",
+    "no-data": "/components/common/no-data/no-search",
+    "product-item": "/components/common/card/goods",
+    "consultant-item": "/components/common/card/consults",
+    "class-item": "/components/common/card/course"
+  }
+}

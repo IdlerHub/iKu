@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "menu-share": "/components/common/menu/share",
+    "menu-cart": "/components/common/menu/cart",
+    "weixin-parse": "/components/common/wxParse/wxParse"
+  }
+}

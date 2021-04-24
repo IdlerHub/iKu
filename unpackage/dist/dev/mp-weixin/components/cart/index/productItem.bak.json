@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "stepper": "/components/common/stepper/square-car"
+  }
+}

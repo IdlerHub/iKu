@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "btn": "/components/common/button/button",
+    "no-data": "/components/common/no-data/no-search"
+  }
+}

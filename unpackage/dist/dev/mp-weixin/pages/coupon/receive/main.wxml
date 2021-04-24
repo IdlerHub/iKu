@@ -1,0 +1,1 @@
+<block wx:if="{{page_show}}"><view class="coupon-page _div data-v-38deea76"><block wx:if="{{list.length==0}}"><view class="no-data flex-ccc _div data-v-38deea76"><image src="/static/images/common/no_result.png" class="_img data-v-38deea76"></image><view class="desc _div data-v-38deea76">暂无可领取的优惠卷</view></view></block></view></block>

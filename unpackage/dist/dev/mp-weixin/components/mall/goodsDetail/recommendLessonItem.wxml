@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['$nav',['class',['o',['id',item.recommend_class_id]]]]]]]}}" class="recommend-lesson-item _div data-v-cb08b182" bindtap="__e"><image lazy-load="{{true}}" mode="aspectFill" src="{{item.thumb+imgProcess.wh200}}" class="_img data-v-cb08b182"></image><view class="title line-clamp _div data-v-cb08b182">{{item.title}}</view></view>

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "official-account": "/components/common/official-account/official-account",
+    "submit-button": "/components/common/button/button"
+  }
+}

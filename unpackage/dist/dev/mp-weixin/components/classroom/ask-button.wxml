@@ -1,0 +1,1 @@
+<button data-event-opts="{{[['tap',[['$emit',['ask']]]]]}}" class="menu-btn ask data-v-d0b69606" catchtap="__e">提问</button>

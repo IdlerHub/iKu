@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "top-info": "/components/my/family/archives/topinfo",
+    "tool": "/components/my/family/archives/tool",
+    "commissioner": "/components/my/family/archives/commissioner",
+    "need-look": "/components/my/family/archives/needLook",
+    "learn": "/components/my/family/archives/learn",
+    "notice": "/components/my/family/archives/notice",
+    "menu-group": "/components/common/menu/menuGroup",
+    "buy": "/components/common/menu/buy",
+    "tab-content": "/components/education/tab-content"
+  }
+}

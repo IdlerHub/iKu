@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "name-card": "/components/classroom/name-card",
+    "toast-s": "/components/common/toast/toast-s",
+    "toast-m": "/components/common/toast/toast-m",
+    "weixin-parse": "/components/common/wxParse/wxParse",
+    "official-account": "/components/common/official-account/official-account",
+    "scroll-class": "/components/classroom/scrollClass",
+    "menu-group": "/components/common/menu/menuGroup"
+  }
+}

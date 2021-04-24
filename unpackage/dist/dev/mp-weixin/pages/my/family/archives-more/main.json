@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "learn-item": "/components/my/family/archives/learn-item"
+  }
+}

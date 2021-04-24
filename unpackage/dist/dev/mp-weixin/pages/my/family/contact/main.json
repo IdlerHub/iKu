@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "post-button": "/components/common/button/button"
+  }
+}

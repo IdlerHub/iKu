@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "popup": "/components/common/popup/popup",
+    "btn": "/components/common/button/button",
+    "stepper": "/components/common/stepper/square"
+  }
+}

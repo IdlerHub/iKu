@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "none-btn": "/components/my/family/archives/noneBtn"
+  }
+}

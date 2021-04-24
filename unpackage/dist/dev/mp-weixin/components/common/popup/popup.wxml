@@ -1,0 +1,1 @@
+<view class="default-popup _div" style="{{'display:'+(display?'':'none')+';'}}"><view data-event-opts="{{[['tap',[['$emit',['update:show',false]]]]]}}" class="{{['popup-mask _div',(show)?'mask-in':'',(!show)?'mask-out':'']}}" bindtap="__e"></view><view class="{{['popup-content _div',(show)?'popup-enter':'',(!show)?'popup-leave':'']}}"><slot></slot></view></view>

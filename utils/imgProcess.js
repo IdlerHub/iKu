@@ -1,0 +1,20 @@
+export const imgProcess = {
+  wh100: '?x-oss-process=image/resize,m_lfit,w_100,h_100/quality,q_95/format,jpeg',
+  wh110: '?x-oss-process=image/resize,m_lfit,w_110,h_110/quality,q_95/format,jpeg',
+  wh130: '?x-oss-process=image/resize,m_lfit,w_130,h_130/quality,q_100/format,jpeg',
+  wh140: '?x-oss-process=image/resize,m_lfit,w_140,h_140/quality,q_100/format,jpeg',
+  wh150: '?x-oss-process=image/resize,m_lfit,w_150,h_150/quality,q_100/format,jpeg',
+  wh280: '?x-oss-process=image/resize,m_lfit,w_280,h_280/quality,q_100/format,jpeg',
+  wh200: '?x-oss-process=image/resize,m_lfit,w_200,h_200/quality,q_95/format,jpeg',
+  wh300: '?x-oss-process=image/resize,m_lfit,w_300,h_300/quality,q_95/format,jpeg',
+  wh400: '?x-oss-process=image/resize,m_lfit,w_400,h_400/quality,q_95/format,jpeg',
+  wh500: '?x-oss-process=image/resize,m_lfit,w_500,h_500/quality,q_95/format,jpeg',
+  wh60: '?x-oss-process=image/resize,m_lfit,w_60,h_60/quality,q_95/format,jpeg',
+  w390h260: '?x-oss-process=image/resize,m_lfit,w_390,h_260/quality,q_95/format,jpeg',
+  w360h220: '?x-oss-process=image/resize,m_lfit,w_360,h_220/quality,q_95/format,jpeg',
+  w440h220: '?x-oss-process=image/resize,m_lfit,w_440,h_220/quality,q_95/format,jpeg',
+  w280h186: '?x-oss-process=image/resize,m_lfit,w_280,h_186/quality,q_95/format,jpeg',
+  w450h75: '?x-oss-process=image/resize,m_lfit,w_450,h_75/quality,q_95/format,jpeg',
+  w500h85: '?x-oss-process=image/resize,m_lfit,w_500,h_85/quality,q_95/format,jpeg',
+  w375: '?x-oss-process=image/auto-orient,1/resize,m_lfit,w_750/quality,q_100'
+}

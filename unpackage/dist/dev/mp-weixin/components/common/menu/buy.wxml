@@ -1,0 +1,1 @@
+<button data-event-opts="{{[['tap',[['$nav',['mall']]]]]}}" class="menu-btn menu-buy data-v-7c07f00f" bindtap="__e">购买</button>

@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "scroll-left": "/components/mall/index/scrollLeft",
+    "scroll-right": "/components/mall/index/scrollRight",
+    "scroll-right-v2": "/components/mall/index/scrollRight-v2",
+    "search-bar": "/components/common/search/search-default",
+    "banner": "/components/common/banner/banner",
+    "menu-group": "/components/common/menu/menuGroup",
+    "panel": "/components/common/share-in/panel"
+  }
+}

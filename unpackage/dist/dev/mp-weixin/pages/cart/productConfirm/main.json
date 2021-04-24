@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "btn": "/components/common/button/button",
+    "address-panel": "/components/cart/confirm/address",
+    "goods-panel": "/components/cart/confirm/goods"
+  }
+}

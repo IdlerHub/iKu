@@ -1,0 +1,1 @@
+<button data-event-opts="{{[['tap',[['$nav',['archives']]]]]}}" class="menu-btn menu-profile data-v-62af5d9c" style="{{(customstyle)}}" bindtap="__e">档案</button>

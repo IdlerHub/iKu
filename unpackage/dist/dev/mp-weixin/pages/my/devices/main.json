@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tab": "/components/common/tab/tab",
+    "current-item": "/components/my/devices/current-item",
+    "invalid-item": "/components/my/devices/invalid-item",
+    "no-data": "/components/common/no-data/no-search"
+  }
+}
